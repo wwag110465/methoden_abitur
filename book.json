@@ -1,0 +1,9 @@
+{
+    "authors": 
+    "language": "de",
+    "plugins": ["mathjax"],
+    "structure": {
+        "readme": "myIntro.md"
+    },
+    "title": "Methodenwissen für das Abitur"    
+}
