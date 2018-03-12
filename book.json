@@ -1,5 +1,4 @@
 {
-    "authors": 
     "language": "de",
     "plugins": ["mathjax"],
     "structure": {
