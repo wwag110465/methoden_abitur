@@ -1,8 +1,13 @@
 {
     "language": "de",
-    "plugins": ["mathjax"],
+    // Use the "official" theme
+    "plugins": ["theme-official@2.1.1", "-sharing", "-fontsettings", "sitemap", "mathjax"],
     "structure": {
         "readme": "myIntro.md"
     },
-    "title": "Methodenwissen für das Abitur"    
+    "title": "Methodenwissen für das Abitur",
+    "variables": {
+        "author": "Wolfgang Wagemann",
+        "version": "pkg.version"
+    },
 }
