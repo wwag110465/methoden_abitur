@@ -1,6 +1,5 @@
 {
     "language": "de",
-    // Use the "official" theme
     "plugins": ["theme-official@2.1.1", "-sharing", "-fontsettings", "sitemap", "mathjax"],
     "structure": {
         "readme": "myIntro.md"
